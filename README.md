@@ -14,4 +14,4 @@ Northwind DB for Firebird
 
 ## Notes
 
-Tested with Firebird 4.0.1.2692 for Win64
+Tested with Firebird (embedded) 4.0.1.2692 for Win64
