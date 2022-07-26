@@ -14,5 +14,5 @@ Northwind DB for Firebird
 
 ## Notes
 
-Lite version doesn't contain views and stored procedures
+Lite version doesn't contain views and stored procedures  
 Tested with Firebird (embedded) 4.0.1.2692 for Win64
